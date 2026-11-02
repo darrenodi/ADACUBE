@@ -1,5 +1,31 @@
-# Object file
-*.o
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
 
-# Ada Library Information
-*.ali
+# Node / TypeScript
+node_modules/
+dist/
+*.tsbuildinfo
+
+# C++ / CMake
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+
+# CAD exports produced during experiments
+*.step
+*.stp
+*.stl
+*.3mf
+!samples/**
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
