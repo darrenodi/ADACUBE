@@ -29,3 +29,6 @@ cmake-build-*/
 .DS_Store
 .idea/
 .vscode/
+
+# Generated experiment output
+experiments/*/out/

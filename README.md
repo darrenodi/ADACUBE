@@ -27,4 +27,4 @@ Clients commissioning products, modelling companies, toy companies, hobbyists an
 
 ## Status
 
-Planning. No code yet. The first experiment is described in the roadmap.
+Planning and early prototyping. First experiment: [enclosure assembly](experiments/enclosure/README.md).

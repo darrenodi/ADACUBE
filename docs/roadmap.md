@@ -4,7 +4,7 @@ Build one complete workflow end to end before widening scope. Use an existing CA
 
 ## First experiment
 
-Using Python and Open CASCADE (via build123d), generate a small enclosure containing a PCB, battery, display and screws. Export to STEP and inspect it in FreeCAD.
+Done: see [experiments/enclosure](../experiments/enclosure/README.md). Using Python and Open CASCADE (via build123d), it generates a small enclosure containing a PCB, battery, display and screws, checks for clashes, and exports STEP for inspection in FreeCAD.
 
 ## Phases
 
